@@ -1,2 +1,2 @@
-My first readme
-My name is johnpaul
+New readme
+
